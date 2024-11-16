@@ -14,7 +14,7 @@ This is a Pomodoro Timer built using Python's Tkinter library. It is a simple de
 1. Clone the repository or download the files to your local machine.
 
    ```bash
-   git clone https://github.com/Pooja389/pomodoro-timer.git
+   git clone https://github.com/Pooja389/tomato-timer.git
 2. Ensure you have Python 3.x installed on your system.
 3. Make sure the required libraries are installed. You can install Tkinter (if not already installed) using:
    ```bash
